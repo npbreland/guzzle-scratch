@@ -1,0 +1,12 @@
+{
+    "name": "nick/guzzle-scratch",
+    "authors": [
+        {
+            "name": "Nick Breland",
+            "email": "npbreland@tutanota.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7"
+    }
+}
