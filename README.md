@@ -1,3 +1,3 @@
 # Guzzle Scratch
 
-Just copy the starter and go!
+Just copy `starter.php` and go!
