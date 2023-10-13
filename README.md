@@ -1,3 +1,3 @@
 # Guzzle Scratchpad
 
-Just copy `starter.php` and go!
+Just copy `scratchpads/starter.php` and go!
